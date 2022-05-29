@@ -5,12 +5,13 @@ Hi 👋 My name is Pedro Abrao Luchtenberg Isaak
 A new adventurer in the programming world
 -----------------------------------------
 
-I have a degree in Technologist in System Analysis, but I have focused my work in recent years in the area of Computer Technician and support. Now I'm trying to get back into the programming world
+I have a degree in Technologist in System Analysis, but I have work in recent years as computer technician and N1 hardware/software support. Now I'm trying to get back into the programming world
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [pedro.isaak@gmail.com](mailto:pedro.isaak@gmail.com)
 * 🧠  I'm learning Javascript, HTML5, CSS
-* ⚡  The Lord of the Rings Lover(i own the one ring, don't tell sauron), i love games since my childhood
+* ⚡   -The Lord of the Rings lover(i own the one ring, don't tell to Sauron)<br>
+*       -I love games since my childhood(make canvas games in JS is my favorite
 
 ### Skills
 
