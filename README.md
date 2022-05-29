@@ -37,6 +37,6 @@ I have a degree in Technologist in System Analysis, but I have focused my work i
 
 <!-- TODO add in the rest of the URLs here -->
 ### I'm a gamer too, so you might find me on:
-<a href="https://discordapp.com/invite/f4NFzFt](https://discord.gg/cT5RvjUY" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" height="30" /></a>
+<a href="https://discord.gg/hmWEX5q4jH" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="" height="30" /></a> 
 
