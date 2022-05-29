@@ -10,7 +10,7 @@ I have a degree in Technologist in System Analysis, but I have focused my work i
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [pedro.isaak@gmail.com](mailto:pedro.isaak@gmail.com)
 * 🧠  I'm learning Javascript, HTML5, CSS
-* ⚡  lord of the rings lover(i own the one ring, don't tell sauron), i love games since my childhood
+* ⚡  The Lord of the Rings Lover(i own the one ring, don't tell sauron), i love games since my childhood
 
 ### Skills
 
@@ -34,3 +34,9 @@ I have a degree in Technologist in System Analysis, but I have focused my work i
 <a href="http://www.github.com/pedroisaak"><img src="https://activity-graph.herokuapp.com/graph?username=pedroisaak&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/pedroisaak" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroisaak&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<!-- TODO add in the rest of the URLs here -->
+### I'm a gamer too, so you might find me on:
+<a href="https://discordapp.com/invite/f4NFzFt](https://discord.gg/cT5RvjUY" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="" height="30" /></a> 
+
