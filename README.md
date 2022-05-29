@@ -29,7 +29,7 @@ I have a degree in Technologist in System Analysis, but I have focused my work i
 ### I'm a gamer too, so you might find me on:
 <a href="https://discord.gg/hmWEX5q4jH" target="blank"><img align="center" src="https://github.com/Pedroisaak/Programacao/blob/2efdcd5392e06c116c5705d7ab3e277a059c126a/Programacao/Cursos%20Udemy/Java%20Script/Curso%20Luiz%20Otavio%20Miranda/Testes/discord.png" height="30" /></a>
 <a href="https://worldofwarcraft.com/en-us/character/us/azralon/luketemberg" target="blank"><img align="center" src="https://github.com/Pedroisaak/Programacao/blob/0b53ce7f87f64528007da405292ed4be128b2eee/Programacao/Cursos%20Udemy/Java%20Script/Curso%20Luiz%20Otavio%20Miranda/Testes/battlenet.png" height="30" /></a>
-<a href="[https://worldofwarcraft.com/en-us/character/us/azralon/luketemberg](https://steamcommunity.com/profiles/76561198254442904/)" target="blank"><img align="center" src="https://github.com/Pedroisaak/Programacao/blob/0b53ce7f87f64528007da405292ed4be128b2eee/Programacao/Cursos%20Udemy/Java%20Script/Curso%20Luiz%20Otavio%20Miranda/Testes/steam.png" height="30" /></a> 
+<a href="https://steamcommunity.com/profiles/76561198254442904/" target="blank"><img align="center" src="https://github.com/Pedroisaak/Programacao/blob/34abf35a88e30465cec3ac0f2c0c0325e54722ba/Programacao/Cursos%20Udemy/Java%20Script/Curso%20Luiz%20Otavio%20Miranda/Testes/steam.png" height="30" /></a> 
 
 ### Badges
 
