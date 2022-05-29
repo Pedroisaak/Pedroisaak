@@ -25,6 +25,11 @@ I have a degree in Technologist in System Analysis, but I have focused my work i
 
 <p align="left"> <a href="https://www.github.com/pedroisaak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pedro-isaak-a2242254" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/pedroalisaak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+
+### I'm a gamer too, so you might find me on:
+<a href="https://discord.gg/hmWEX5q4jH" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="" height="30" /></a> 
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -35,8 +40,5 @@ I have a degree in Technologist in System Analysis, but I have focused my work i
 
 <a href="https://github.com/pedroisaak" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroisaak&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<!-- TODO add in the rest of the URLs here -->
-### I'm a gamer too, so you might find me on:
-<a href="https://discord.gg/hmWEX5q4jH" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="" height="30" /></a> 
+
 
