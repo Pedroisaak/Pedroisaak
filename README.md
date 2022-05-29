@@ -10,7 +10,7 @@ I have a degree in Technologist in System Analysis, but I have work in recent ye
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [pedro.isaak@gmail.com](mailto:pedro.isaak@gmail.com)
 * 🧠  I'm learning Javascript, HTML5, CSS
-* ⚡   -The Lord of the Rings lover(i own the one ring, don't tell to Sauron)
+* ⚡   -The Lord of the Rings lover(i own the one ring, don't tell to Sauron)<br>
         I love games since my childhood(make canvas games in JS is my favorite
 
 ### Skills
