@@ -9,7 +9,7 @@ I have a degree in Technologist in System Analysis, but I have work in recent ye
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [pedro.isaak@gmail.com](mailto:pedro.isaak@gmail.com)
-* 🧠  I'm learning Javascript, HTML5, CSS
+* 🧠  I'm learning Javascript, HTML5, CSS, NodeJS
     
 ### Things about me
    <ul>
